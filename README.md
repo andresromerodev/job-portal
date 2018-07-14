@@ -1,5 +1,4 @@
 # Jobs-Exchange-System
-Job marketing web based system.
 
 ## About:
 Jobs Exchange is a small-scale web system used for job searching and posting, built with Java technologies such as Hibernate and Java-Servlets in the Back-End and JavaScript in the Front-End using libraries and frameworks such as Hibernate and JQuery. 
