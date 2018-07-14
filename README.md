@@ -1,7 +1,7 @@
 # Jobs-Exchange-System
 
 ## About:
-Jobs Exchange is a small-scale web system used for job searching and posting, built with Java technologies such as Hibernate and Java-Servlets in the Back-End and JavaScript in the Front-End using libraries and frameworks such as Hibernate and JQuery. 
+Jobs Exchange is a small-scale web system used for job searching and posting, built with Java technologies such as Hibernate and Java-Servlets in the Back-End and JavaScript in the Front-End using libraries and frameworks such as Bootstrap and JQuery. 
 
 ![enter image description here](https://lh3.googleusercontent.com/BoqoAfKryDnJJ9ufxR3sY-oslpSWGMptJG_ob5fHZ-uEKFOg9ogwSn5MUexKXC1QZObYrugCGuBc)
 
