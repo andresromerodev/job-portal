@@ -60,7 +60,6 @@ values('402300958','Andres','Romero','Costa Rica',86234057,6);
 insert into offerer(idOfferer,name,lastname,originCountry,phoneNumber,Login_idLogin)
 values('116630669','Lisandra','Aguero','Costa Rica',83367306,7);
 
-
 #Features
 insert into feature(name,Feature_idFeature)values('Programming Languages',null); 	#1 
 insert into feature(name,Feature_idFeature)values('SQL DataBases',null);  			#2
@@ -79,7 +78,6 @@ insert into feature(name,Feature_idFeature)values('Windows Server 2008',11); 		#
 insert into feature(name,Feature_idFeature)values('Windows Server 2012',11); 		#15
 insert into feature(name,Feature_idFeature)values('RedHat',12); 					#16
 insert into feature(name,Feature_idFeature)values('Linux Mint',12); 				#17
-
 
 insert into Position (name,publishDate,salary,publicPos,Company_idCompany,enable)
 values('Apps Development Intern','2018-03-05',3000,127,1,127);
@@ -101,7 +99,6 @@ values('Windows Administrator','2018-02-10',2500,127,3,127);
 
 insert into Position (name,publishDate,salary,publicPos,Company_idCompany,enable)
 values('Linux Administrator','2018-06-01',4000,127,3,127);
-
 
 #APPS DEVELOPMENT INTERN:
 #Level NULL, Feature: Programming Languages
