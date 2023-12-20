@@ -141,7 +141,7 @@
             <!--Copyright-->
             <div class="footer-copyright py-3 text-center" id="copyright" style="color: white;">
                GitHub:
-               <a href="https://github.com/ANDRESROMEROH/Jobs-Exchange" target="_blank" style="color: white; text-decoration: underline;"> Jobs-Exchange-System </a>
+               <a href="https://github.com/ANDRESROMEROH/job-portal" target="_blank" style="color: white; text-decoration: underline;"> job-portal-System </a>
             </div>
             <!--/.Copyright-->
 
