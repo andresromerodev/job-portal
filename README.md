@@ -8,7 +8,7 @@ Within the system, you will discover additional features, such as profile admini
 # Get started
 
 -   Install NetBeans. (https://netbeans.org/)
--   cd to **job-portal**/**DataBase**/ directory and run the schema SQL Script, you will need to have MySQL previously installed.
+-   cd to **job-portal**/**Data**/ directory and run the schema SQL Script, you will need to have MySQL previously installed.
 -   Compile and run the project from NetBeans.
 -   Go to  [`http://localhost:8080`](http://localhost:8080/)
 - Bootstrap, JQuery and other dependencies are already included within the project package.
