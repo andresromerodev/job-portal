@@ -1,31 +1,26 @@
-# Jobs-Exchange-System
+# job-portal
+Web app utilized for job searching and posting. It is built using Java technologies, including Hibernate and Java Servlets in the back-end, and JavaScript in the front-end, employing libraries and frameworks such as Bootstrap and JQuery.
 
-## About:
-Jobs Exchange is a small-scale web system used for job searching and posting, built with Java technologies such as Hibernate and Java-Servlets in the Back-End and JavaScript in the Front-End using libraries and frameworks such as Bootstrap and JQuery. 
+The system utilizes third-party services like Google® Maps and PayPal® Sandbox for searching and registration options.
 
-Jobs-Exchange makes use of third-party Services as Google® Maps and PayPal® SandBox for searching and registering options.
-
-In the system you will find other features such as profile administration for different roles (Admin, Company and Job seeker) and different functions as CV reviewing, position registering and many others that are necessary in a Job Online Marketing System.
-
+Within the system, you will discover additional features, such as profile administration for various roles (Admin, Company, and Job Seeker), as well as various functions like CV reviewing, position registration, and many others essential to a Job Online Marketing System.
 
 # Get started
 
--   Install NetBeans on your machine. (https://netbeans.org/)
--   cd to **Jobs-Exchange-System**/**DataBase**/ directory and run the SQL Script `JobsSystem.SQL` you will need to have MySQL previously installed.
+-   Install NetBeans. (https://netbeans.org/)
+-   cd to **job-portal**/**DataBase**/ directory and run the schema SQL Script, you will need to have MySQL previously installed.
 -   Compile and run the project from NetBeans.
 -   Go to  [`http://localhost:8080`](http://localhost:8080/)
 - Bootstrap, JQuery and other dependencies are already included within the project package.
 
-## [](https://github.com/DevonCrawford/Personal-Website#main-server-file)Main Server file
-
+## Main Server file
     Home.java
-    
 
-## [](https://github.com/DevonCrawford/Personal-Website#html-pages)JSP Pages
+## JSP Pages
 
 All JSP pages are in the `/System/web/` directory. Some of these pages are dynamically created on server side and for other specific actions they use client side rendering.
 
-## [](https://github.com/DevonCrawford/Personal-Website#static-files-css-javascript)Static Files (Javascript & CSS)
+## Static Files (Javascript & CSS)
 
     /System/web/js
     /System/web/css
